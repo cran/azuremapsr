@@ -1,9 +1,10 @@
-# azuremapsr 0.0.1
+# azuremapsr 0.0.2
 
-* Initial CRAN submission.
+- Fixed bug in `POSTbody_builder_directions_geojson` when waypoints were not provided.
 
-* Fully functional `req_route_directions` and `get_routes`
+# azuremapsr 0.0.1 (CRAN submission)
 
+- Fully functional `req_route_directions` and `get_routes`.
 
 ## To do:
 
